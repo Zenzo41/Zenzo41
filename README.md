@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zenzo41" target="blank"><img src="https://img.shields.io/twitter/follow/zenzo41?logo=twitter&style=for-the-badge" alt="zenzo41" /></a> </p>
 
-- 🔭 I’m currently working on [Bakery Ecommerce Site](The link is hidden)
+- 🔭 I’m currently working on [Bakery Ecommerce Site]
 
 - 🌱 I’m currently learning **django**
 
